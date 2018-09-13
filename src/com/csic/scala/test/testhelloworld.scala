@@ -8,5 +8,6 @@ object testhelloworld {
     print("hello world!")
     val a = List("1", "2","3")
     print(a.head)
+    print(a.tail)
   }
 }
